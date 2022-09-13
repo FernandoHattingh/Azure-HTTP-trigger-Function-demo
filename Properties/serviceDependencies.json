@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "appInsights1": {
+      "type": "appInsights"
+    },
+    "storage1": {
+      "type": "storage",
+      "connectionId": "AzureWebJobsStorage"
+    },
+    "storage2": {
+      "type": "storage",
+      "connectionId": "DefaultEndpointsProtocol=https;AccountName=poepart1st10115510202208;AccountKey=GnSpYuiwyDJDMsbxNHfiobz7e/yJrt9Wzq3TgtbHES5g0EIkjF7APb9kAgiPCWW6p0EyecaTqsyB+AStrQPzPw==;EndpointSuffix=core.windows.net"
+    },
+    "compute.function.windows1": {
+      "group": "connections",
+      "type": "compute.function.windows"
+    }
+  }
+}

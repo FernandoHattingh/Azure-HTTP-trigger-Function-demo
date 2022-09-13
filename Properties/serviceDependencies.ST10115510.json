@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "storage2": {
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Storage/storageAccounts/poepart1st10115510202208",
+      "type": "storage.azure",
+      "connectionId": "DefaultEndpointsProtocol=https;AccountName=poepart1st10115510202208;AccountKey=GnSpYuiwyDJDMsbxNHfiobz7e/yJrt9Wzq3TgtbHES5g0EIkjF7APb9kAgiPCWW6p0EyecaTqsyB+AStrQPzPw==;EndpointSuffix=core.windows.net"
+    }
+  }
+}
